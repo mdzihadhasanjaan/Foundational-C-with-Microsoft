@@ -1,0 +1,15 @@
+F:\C#\Foundational C# with Microsoft\1. Hello World\Hello_World!\Hello_World!\bin\Debug\net8.0\Hello_World!.exe
+F:\C#\Foundational C# with Microsoft\1. Hello World\Hello_World!\Hello_World!\bin\Debug\net8.0\Hello_World!.deps.json
+F:\C#\Foundational C# with Microsoft\1. Hello World\Hello_World!\Hello_World!\bin\Debug\net8.0\Hello_World!.runtimeconfig.json
+F:\C#\Foundational C# with Microsoft\1. Hello World\Hello_World!\Hello_World!\bin\Debug\net8.0\Hello_World!.dll
+F:\C#\Foundational C# with Microsoft\1. Hello World\Hello_World!\Hello_World!\bin\Debug\net8.0\Hello_World!.pdb
+F:\C#\Foundational C# with Microsoft\1. Hello World\Hello_World!\Hello_World!\obj\Debug\net8.0\Hello_World!.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Foundational C# with Microsoft\1. Hello World\Hello_World!\Hello_World!\obj\Debug\net8.0\Hello_World!.AssemblyInfoInputs.cache
+F:\C#\Foundational C# with Microsoft\1. Hello World\Hello_World!\Hello_World!\obj\Debug\net8.0\Hello_World!.AssemblyInfo.cs
+F:\C#\Foundational C# with Microsoft\1. Hello World\Hello_World!\Hello_World!\obj\Debug\net8.0\Hello_World!.csproj.CoreCompileInputs.cache
+F:\C#\Foundational C# with Microsoft\1. Hello World\Hello_World!\Hello_World!\obj\Debug\net8.0\Hello_World!.sourcelink.json
+F:\C#\Foundational C# with Microsoft\1. Hello World\Hello_World!\Hello_World!\obj\Debug\net8.0\Hello_World!.dll
+F:\C#\Foundational C# with Microsoft\1. Hello World\Hello_World!\Hello_World!\obj\Debug\net8.0\refint\Hello_World!.dll
+F:\C#\Foundational C# with Microsoft\1. Hello World\Hello_World!\Hello_World!\obj\Debug\net8.0\Hello_World!.pdb
+F:\C#\Foundational C# with Microsoft\1. Hello World\Hello_World!\Hello_World!\obj\Debug\net8.0\Hello_World!.genruntimeconfig.cache
+F:\C#\Foundational C# with Microsoft\1. Hello World\Hello_World!\Hello_World!\obj\Debug\net8.0\ref\Hello_World!.dll
