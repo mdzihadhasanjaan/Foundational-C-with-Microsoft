@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Foundational C# with Microsoft\\3.Format_Literal_String\\1.Combine strings using character escape sequences\\Character escape sequence\\Character escape sequence.csproj": {}
+    "F:\\C#\\Foundational C# with Microsoft\\3.1.Stringconcatenation\\3.1.Stringconcatenation.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Foundational C# with Microsoft\\3.Format_Literal_String\\1.Combine strings using character escape sequences\\Character escape sequence\\Character escape sequence.csproj": {
+    "F:\\C#\\Foundational C# with Microsoft\\3.1.Stringconcatenation\\3.1.Stringconcatenation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Foundational C# with Microsoft\\3.Format_Literal_String\\1.Combine strings using character escape sequences\\Character escape sequence\\Character escape sequence.csproj",
-        "projectName": "Character escape sequence",
-        "projectPath": "F:\\C#\\Foundational C# with Microsoft\\3.Format_Literal_String\\1.Combine strings using character escape sequences\\Character escape sequence\\Character escape sequence.csproj",
+        "projectUniqueName": "F:\\C#\\Foundational C# with Microsoft\\3.1.Stringconcatenation\\3.1.Stringconcatenation.csproj",
+        "projectName": "3.1.Stringconcatenation",
+        "projectPath": "F:\\C#\\Foundational C# with Microsoft\\3.1.Stringconcatenation\\3.1.Stringconcatenation.csproj",
         "packagesPath": "C:\\Users\\mdzih\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Foundational C# with Microsoft\\3.Format_Literal_String\\1.Combine strings using character escape sequences\\Character escape sequence\\obj\\",
+        "outputPath": "F:\\C#\\Foundational C# with Microsoft\\3.1.Stringconcatenation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdzih\\AppData\\Roaming\\NuGet\\NuGet.Config"
